@@ -1,7 +1,7 @@
 /**
  * 
  */
-package binarytree;
+package com.tejasve.learningjava;
 
 /**
  * 
